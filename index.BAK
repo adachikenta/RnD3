@@ -98,7 +98,8 @@ var svg = d3.select("body").append("svg")
 var link = svg.append("g").selectAll(".link"),
     node = svg.append("g").selectAll(".node");
 
-d3.json("TalkDataSample1.json", function(error, classes) {
+//d3.json("TalkData.json", function(error, classes) {
+d3.json("TalkDataEmpty.json", function(error, classes) {
   var nodes = cluster.nodes(packageHierarchy(classes)),
       links = packageImports(nodes);
 
