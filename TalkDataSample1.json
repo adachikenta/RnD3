@@ -1,801 +1,620 @@
 [
 	{
-		"name": "Embedded.X000",
-		"size": 0,
+		"name": "Group1.Group1 X000 氏名",
 		"imports": [
-			"West4.X052"
+			"Group3.Group3 X052 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X001",
-		"size": 0,
+		"name": "Group1.Group1 X001 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X002",
-		"size": 0,
+		"name": "Group1.Group1 X002 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X003",
-		"size": 0,
+		"name": "Group1.Group1 X003 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X004",
-		"size": 0,
+		"name": "Group1.Group1 X004 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X005",
-		"size": 0,
+		"name": "Group1.Group1 X005 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X006",
-		"size": 0,
+		"name": "Group1.Group1 X006 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X007",
-		"size": 0,
+		"name": "Group1.Group1 X007 氏名",
 		"imports": [
-			"West3.X095"
+			"Group2.Group2 X095 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X008",
-		"size": 0,
+		"name": "Group1.Group1 X008 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X009",
-		"size": 0,
+		"name": "Group1.Group1 X009 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X010",
-		"size": 0,
+		"name": "Group1.Group1 X010 氏名",
 		"imports": [
-			"West4.X053"
+			"Group3.Group3 X053 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X011",
-		"size": 0,
+		"name": "Group1.Group1 X011 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X012",
-		"size": 0,
+		"name": "Group1.Group1 X012 氏名",
 		"imports": [
-			"West4.X042"
+			"Group3.Group3 X042 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X013",
-		"size": 0,
+		"name": "Group1.Group1 X013 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X014",
-		"size": 0,
+		"name": "Group1.Group1 X014 氏名",
 		"imports": [
-			"West4.X042"
+			"Group3.Group3 X042 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X015",
-		"size": 0,
+		"name": "Group1.Group1 X015 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X016",
-		"size": 0,
+		"name": "Group1.Group1 X016 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X017",
-		"size": 0,
+		"name": "Group1.Group1 X017 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X018",
-		"size": 0,
+		"name": "Group1.Group1 X018 氏名",
 		"imports": [
-			"West4.X075"
+			"Group3.Group3 X075 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X019",
-		"size": 0,
+		"name": "Group1.Group1 X019 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X020",
-		"size": 0,
+		"name": "Group1.Group1 X020 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X021",
-		"size": 0,
+		"name": "Group1.Group1 X021 氏名",
 		"imports": [
-			"West3.X092"
+			"Group2.Group2 X092 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X022",
-		"size": 0,
+		"name": "Group1.Group1 X022 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X023",
-		"size": 0,
+		"name": "Group1.Group1 X023 氏名",
 		"imports": [
-			"West4.X043"
+			"Group3.Group3 X043 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X024",
-		"size": 0,
+		"name": "Group1.Group1 X024 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X025",
-		"size": 0,
+		"name": "Group1.Group1 X025 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X026",
-		"size": 0,
+		"name": "Group1.Group1 X026 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X027",
-		"size": 0,
+		"name": "Group1.Group1 X027 氏名",
 		"imports": [
-			"West4.X050"
+			"Group3.Group3 X050 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X028",
-		"size": 0,
+		"name": "Group1.Group1 X028 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X029",
-		"size": 0,
+		"name": "Group1.Group1 X029 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X030",
-		"size": 0,
+		"name": "Group1.Group1 X030 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X031",
-		"size": 0,
+		"name": "Group1.Group1 X031 氏名",
 		"imports": [
-			"Other.X123"
+			"Group4.Group4 X123 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X032",
-		"size": 0,
+		"name": "Group1.Group1 X032 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X033",
-		"size": 0,
+		"name": "Group1.Group1 X033 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X034",
-		"size": 0,
+		"name": "Group1.Group1 X034 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X035",
-		"size": 0,
+		"name": "Group1.Group1 X035 氏名",
 		"imports": [
-			"Other.X130"
+			"Group4.Group4 X130 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X036",
-		"size": 0,
+		"name": "Group1.Group1 X036 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X037",
-		"size": 0,
+		"name": "Group1.Group1 X037 氏名",
 		"imports": []
 	},
 	{
-		"name": "Embedded.X038",
-		"size": 0,
+		"name": "Group1.Group1 X038 氏名",
 		"imports": [
-			"Embedded.X001"
+			"Group1.Group1 X001 氏名"
 		]
 	},
 	{
-		"name": "Embedded.X039",
-		"size": 0,
+		"name": "Group1.Group1 X039 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X040",
-		"size": 0,
+		"name": "Group3.Group3 X040 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X041",
-		"size": 0,
+		"name": "Group3.Group3 X041 氏名",
 		"imports": [
-			"Embedded.X023"
+			"Group1.Group1 X023 氏名"
 		]
 	},
 	{
-		"name": "West4.X042",
-		"size": 0,
+		"name": "Group3.Group3 X042 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X043",
-		"size": 0,
+		"name": "Group3.Group3 X043 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X044",
-		"size": 0,
+		"name": "Group3.Group3 X044 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X045",
-		"size": 0,
+		"name": "Group3.Group3 X045 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X046",
-		"size": 0,
+		"name": "Group3.Group3 X046 氏名",
 		"imports": [
-			"West3.X105"
+			"Group2.Group2 X105 氏名"
 		]
 	},
 	{
-		"name": "West4.X047",
-		"size": 0,
+		"name": "Group3.Group3 X047 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X048",
-		"size": 0,
+		"name": "Group3.Group3 X048 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X049",
-		"size": 0,
+		"name": "Group3.Group3 X049 氏名",
 		"imports": [
-			"Embedded.X009"
+			"Group1.Group1 X009 氏名"
 		]
 	},
 	{
-		"name": "West4.X050",
-		"size": 0,
+		"name": "Group3.Group3 X050 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X051",
-		"size": 0,
+		"name": "Group3.Group3 X051 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X052",
-		"size": 0,
+		"name": "Group3.Group3 X052 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X053",
-		"size": 0,
+		"name": "Group3.Group3 X053 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X054",
-		"size": 0,
+		"name": "Group3.Group3 X054 氏名",
 		"imports": [
-			"Embedded.X029"
+			"Group1.Group1 X029 氏名"
 		]
 	},
 	{
-		"name": "West4.X055",
-		"size": 0,
+		"name": "Group3.Group3 X055 氏名",
 		"imports": [
-			"West4.X040"
+			"Group3.Group3 X040 氏名"
 		]
 	},
 	{
-		"name": "West4.X056",
-		"size": 0,
+		"name": "Group3.Group3 X056 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X057",
-		"size": 0,
+		"name": "Group3.Group3 X057 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X058",
-		"size": 0,
+		"name": "Group3.Group3 X058 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X059",
-		"size": 0,
+		"name": "Group3.Group3 X059 氏名",
 		"imports": [
-			"Embedded.X009"
+			"Group1.Group1 X009 氏名"
 		]
 	},
 	{
-		"name": "West4.X060",
-		"size": 0,
+		"name": "Group3.Group3 X060 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X061",
-		"size": 0,
+		"name": "Group3.Group3 X061 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X062",
-		"size": 0,
+		"name": "Group3.Group3 X062 氏名",
 		"imports": [
-			"West3.X119"
+			"Group2.Group2 X119 氏名"
 		]
 	},
 	{
-		"name": "West4.X063",
-		"size": 0,
+		"name": "Group3.Group3 X063 氏名",
 		"imports": [
-			"West3.X088"
+			"Group2.Group2 X088 氏名"
 		]
 	},
 	{
-		"name": "West4.X064",
-		"size": 0,
+		"name": "Group3.Group3 X064 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X065",
-		"size": 0,
+		"name": "Group3.Group3 X065 氏名",
 		"imports": [
-			"West3.X089"
+			"Group2.Group2 X089 氏名"
 		]
 	},
 	{
-		"name": "West4.X066",
-		"size": 0,
+		"name": "Group3.Group3 X066 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X067",
-		"size": 0,
+		"name": "Group3.Group3 X067 氏名",
 		"imports": [
-			"Embedded.X005"
+			"Group1.Group1 X005 氏名"
 		]
 	},
 	{
-		"name": "West4.X068",
-		"size": 0,
+		"name": "Group3.Group3 X068 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X069",
-		"size": 0,
+		"name": "Group3.Group3 X069 氏名",
 		"imports": [
-			"Other.X121"
+			"Group4.Group4 X121 氏名"
 		]
 	},
 	{
-		"name": "West4.X070",
-		"size": 0,
+		"name": "Group3.Group3 X070 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X071",
-		"size": 0,
+		"name": "Group3.Group3 X071 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X072",
-		"size": 0,
+		"name": "Group3.Group3 X072 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X073",
-		"size": 0,
+		"name": "Group3.Group3 X073 氏名",
 		"imports": [
-			"Embedded.X029"
+			"Group1.Group1 X029 氏名"
 		]
 	},
 	{
-		"name": "West4.X074",
-		"size": 0,
+		"name": "Group3.Group3 X074 氏名",
 		"imports": [
-			"West3.X115"
+			"Group2.Group2 X115 氏名"
 		]
 	},
 	{
-		"name": "West4.X075",
-		"size": 0,
+		"name": "Group3.Group3 X075 氏名",
 		"imports": [
-			"West3.X087"
+			"Group2.Group2 X087 氏名"
 		]
 	},
 	{
-		"name": "West4.X076",
-		"size": 0,
+		"name": "Group3.Group3 X076 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X077",
-		"size": 0,
+		"name": "Group3.Group3 X077 氏名",
 		"imports": [
-			"West4.X040"
+			"Group3.Group3 X040 氏名"
 		]
 	},
 	{
-		"name": "West4.X078",
-		"size": 0,
+		"name": "Group3.Group3 X078 氏名",
 		"imports": []
 	},
 	{
-		"name": "West4.X079",
-		"size": 0,
+		"name": "Group3.Group3 X079 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X080",
-		"size": 0,
+		"name": "Group2.Group2 X080 氏名",
 		"imports": [
-			"West3.X113"
+			"Group2.Group2 X113 氏名"
 		]
 	},
 	{
-		"name": "West3.X081",
-		"size": 0,
+		"name": "Group2.Group2 X081 氏名",
 		"imports": [
-			"Embedded.X023"
+			"Group1.Group1 X023 氏名"
 		]
 	},
 	{
-		"name": "West3.X082",
-		"size": 0,
+		"name": "Group2.Group2 X082 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X083",
-		"size": 0,
+		"name": "Group2.Group2 X083 氏名",
 		"imports": [
-			"West4.X077"
+			"Group3.Group3 X077 氏名"
 		]
 	},
 	{
-		"name": "West3.X084",
-		"size": 0,
+		"name": "Group2.Group2 X084 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X085",
-		"size": 0,
+		"name": "Group2.Group2 X085 氏名",
 		"imports": [
-			"West3.X119"
+			"Group2.Group2 X119 氏名"
 		]
 	},
 	{
-		"name": "West3.X086",
-		"size": 0,
+		"name": "Group2.Group2 X086 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X087",
-		"size": 0,
+		"name": "Group2.Group2 X087 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X088",
-		"size": 0,
+		"name": "Group2.Group2 X088 氏名",
 		"imports": [
-			"West4.X069"
+			"Group3.Group3 X069 氏名"
 		]
 	},
 	{
-		"name": "West3.X089",
-		"size": 0,
+		"name": "Group2.Group2 X089 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X090",
-		"size": 0,
+		"name": "Group2.Group2 X090 氏名",
 		"imports": [
-			"Embedded.X027"
+			"Group1.Group1 X027 氏名"
 		]
 	},
 	{
-		"name": "West3.X091",
-		"size": 0,
+		"name": "Group2.Group2 X091 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X092",
-		"size": 0,
+		"name": "Group2.Group2 X092 氏名",
 		"imports": [
-			"Embedded.X030"
+			"Group1.Group1 X030 氏名"
 		]
 	},
 	{
-		"name": "West3.X093",
-		"size": 0,
+		"name": "Group2.Group2 X093 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X094",
-		"size": 0,
+		"name": "Group2.Group2 X094 氏名",
 		"imports": [
-			"West4.X049"
+			"Group3.Group3 X049 氏名"
 		]
 	},
 	{
-		"name": "West3.X095",
-		"size": 0,
+		"name": "Group2.Group2 X095 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X096",
-		"size": 0,
+		"name": "Group2.Group2 X096 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X097",
-		"size": 0,
+		"name": "Group2.Group2 X097 氏名",
 		"imports": [
-			"Embedded.X020"
+			"Group1.Group1 X020 氏名"
 		]
 	},
 	{
-		"name": "West3.X098",
-		"size": 0,
+		"name": "Group2.Group2 X098 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X099",
-		"size": 0,
+		"name": "Group2.Group2 X099 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X100",
-		"size": 0,
+		"name": "Group2.Group2 X100 氏名",
 		"imports": [
-			"Embedded.X017"
+			"Group1.Group1 X017 氏名"
 		]
 	},
 	{
-		"name": "West3.X101",
-		"size": 0,
+		"name": "Group2.Group2 X101 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X102",
-		"size": 0,
+		"name": "Group2.Group2 X102 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X103",
-		"size": 0,
+		"name": "Group2.Group2 X103 氏名",
 		"imports": [
-			"Embedded.X021"
+			"Group1.Group1 X021 氏名"
 		]
 	},
 	{
-		"name": "West3.X104",
-		"size": 0,
+		"name": "Group2.Group2 X104 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X105",
-		"size": 0,
+		"name": "Group2.Group2 X105 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X106",
-		"size": 0,
+		"name": "Group2.Group2 X106 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X107",
-		"size": 0,
+		"name": "Group2.Group2 X107 氏名",
 		"imports": [
-			"West3.X089"
+			"Group2.Group2 X089 氏名"
 		]
 	},
 	{
-		"name": "West3.X108",
-		"size": 0,
+		"name": "Group2.Group2 X108 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X109",
-		"size": 0,
+		"name": "Group2.Group2 X109 氏名",
 		"imports": [
-			"Embedded.X038"
+			"Group1.Group1 X038 氏名"
 		]
 	},
 	{
-		"name": "West3.X110",
-		"size": 0,
+		"name": "Group2.Group2 X110 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X111",
-		"size": 0,
+		"name": "Group2.Group2 X111 氏名",
 		"imports": [
-			"West3.X095"
+			"Group2.Group2 X095 氏名"
 		]
 	},
 	{
-		"name": "West3.X112",
-		"size": 0,
+		"name": "Group2.Group2 X112 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X113",
-		"size": 0,
+		"name": "Group2.Group2 X113 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X114",
-		"size": 0,
+		"name": "Group2.Group2 X114 氏名",
 		"imports": [
-			"West3.X096"
+			"Group2.Group2 X096 氏名"
 		]
 	},
 	{
-		"name": "West3.X115",
-		"size": 0,
+		"name": "Group2.Group2 X115 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X116",
-		"size": 0,
+		"name": "Group2.Group2 X116 氏名",
 		"imports": [
-			"Other.X124"
+			"Group4.Group4 X124 氏名"
 		]
 	},
 	{
-		"name": "West3.X117",
-		"size": 0,
+		"name": "Group2.Group2 X117 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X118",
-		"size": 0,
+		"name": "Group2.Group2 X118 氏名",
 		"imports": []
 	},
 	{
-		"name": "West3.X119",
-		"size": 0,
+		"name": "Group2.Group2 X119 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X120",
-		"size": 0,
+		"name": "Group4.Group4 X120 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X121",
-		"size": 0,
+		"name": "Group4.Group4 X121 氏名",
 		"imports": [
-			"West4.X066"
+			"Group3.Group3 X066 氏名"
 		]
 	},
 	{
-		"name": "Other.X122",
-		"size": 0,
+		"name": "Group4.Group4 X122 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X123",
-		"size": 0,
+		"name": "Group4.Group4 X123 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X124",
-		"size": 0,
+		"name": "Group4.Group4 X124 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X125",
-		"size": 0,
+		"name": "Group4.Group4 X125 氏名",
 		"imports": [
-			"Other.X125"
+			"Group4.Group4 X125 氏名"
 		]
 	},
 	{
-		"name": "Other.X126",
-		"size": 0,
+		"name": "Group4.Group4 X126 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X127",
-		"size": 0,
+		"name": "Group4.Group4 X127 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X128",
-		"size": 0,
+		"name": "Group4.Group4 X128 氏名",
 		"imports": []
 	},
 	{
-		"name": "Other.X129",
-		"size": 0,
+		"name": "Group4.Group4 X129 氏名",
 		"imports": [
-			"West3.X097"
+			"Group2.Group2 X097 氏名"
 		]
 	},
 	{
-		"name": "Other.X130",
-		"size": 0,
+		"name": "Group4.Group4 X130 氏名",
 		"imports": [
-			"West4.X067"
+			"Group3.Group3 X067 氏名"
 		]
-	},
-	{
-		"name": "Theme.Talk 000",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 001",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 002",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 003",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 004",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 005",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 006",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 007",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 008",
-		"size": 0,
-		"imports": []
-	},
-	{
-		"name": "Theme.Talk 009",
-		"size": 0,
-		"imports": []
 	}
 ]
