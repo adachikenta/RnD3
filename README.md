@@ -6,3 +6,9 @@ Apacheスタートして
 http://localhost/relationship/  
 にアクセス  
 データの編集はTalkDataSample1.jsonを変更するだけ。  
+
+
+radial network diagrams
+Chord diagram
+
+
